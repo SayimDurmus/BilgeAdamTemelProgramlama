@@ -54,6 +54,7 @@ namespace ConsoleApp1
 
 
             Console.ReadLine();
+            //Bu satır Evren tarafından yazıldı
 
 
         }
